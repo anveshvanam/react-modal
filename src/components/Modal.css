@@ -1,0 +1,22 @@
+.active {
+  color: green;
+  font-size: 12px;
+  font-weight: 0;
+}
+
+.inactive {
+  color: red;
+  font-size: 12px;
+  font-weight: 0;
+}
+
+.sub-heading {
+  font-size: 15px;
+  color: #ff6600;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.heading {
+  font-size: 26px;
+}
